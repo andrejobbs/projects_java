@@ -18,7 +18,7 @@ public class Caneta {
 
     void corAzul(){
         if (this.cor=="Azul"){
-            System.out.println("Caneta azul azul caneta ....");
+            System.out.println("A caneta é Azul");
         }
             else { System.out.println("Caneta qualquer");
                 
